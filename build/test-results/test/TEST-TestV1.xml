@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestV1" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-01-08T11:51:02" hostname="BOR_HOME" time="2.953">
+<testsuite name="TestV1" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-01-09T12:15:21" hostname="BOR_HOME" time="3.082">
   <properties/>
-  <testcase name="shouldReturnTextString()" classname="TestV1" time="2.953">
+  <testcase name="shouldReturnTextString()" classname="TestV1" time="3.082">
     <failure message="java.lang.AssertionError: 1 expectation failed.&#10;JSON path data doesn't match.&#10;Expected: Hello, World&#10;  Actual: Hello, World!&#10;" type="java.lang.AssertionError">java.lang.AssertionError: 1 expectation failed.
 JSON path data doesn't match.
 Expected: Hello, World
